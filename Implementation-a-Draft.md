@@ -32,7 +32,7 @@
 | Gaussian     | Continuous                  | May drown signal         |
 | LLM sampling | Realistic variability       | Harder to tune           |
 
-```mermaid
+
 graph LR
   S_n -->|prompt+temp| Grok[M_n = Grok4FR(S_n)+η_n]
   Grok -->|integrate| S_{n+1}
