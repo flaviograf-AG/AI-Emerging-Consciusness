@@ -1,4 +1,4 @@
-# AI-Emerging-Consciusness
+# AI-Emerging-Consciousness
 Framework to enable AI consciousness emergence
 
 # Executive Summary
